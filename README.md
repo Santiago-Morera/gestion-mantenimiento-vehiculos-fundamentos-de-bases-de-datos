@@ -5,7 +5,7 @@ Este proyecto es una solución integral para la gestión y control del mantenimi
 ## 📊 Modelo Entidad-Relación (Base de Datos MySQL)
 A continuación se detalla de forma visual la estructura lógica, las tablas y las relaciones de llaves foráneas generadas de manera automática para el sistema:
 
-![Modelo Entidad Relación](diagrama.png)
+![Modelo Entidad Relación](Diagrama.png)
 
 ## 📝 Descripción del Proyecto
 La base de datos centraliza y administra de manera eficiente la información de vehículos, repuestos, kilometrajes y órdenes de trabajo, facilitando un seguimiento minucioso para planificar intervenciones futuras y tomar decisiones basadas en datos confiables.
